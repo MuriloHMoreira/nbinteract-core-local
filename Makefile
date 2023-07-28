@@ -76,3 +76,5 @@ publish_js: build_js ## Publish nbinteract to npm
 clean: ## Clean built Python and JS files
 	rm -rf build/* dist/*
 	$(LERNA) run clean
+
+## Just new commit
