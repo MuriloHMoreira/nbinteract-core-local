@@ -77,4 +77,3 @@ clean: ## Clean built Python and JS files
 	rm -rf build/* dist/*
 	$(LERNA) run clean
 
-## Just new commit
