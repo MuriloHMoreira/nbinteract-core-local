@@ -1,7 +1,7 @@
 {
   "name": "nbinteract",
   "version": "0.4.0",
-  "description": "Script to allow public interactive Jupyter notebooks",
+  "description": "Script to allow public interactive Jupyter notebooks with local servers",
   "main": "built/index.bundle.js",
   "scripts": {
     "test": "echo \"Error: no tests available\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamLau95/nbinteract.git"
+    "url": "git+https://github.com/MuriloHMoreira/nbinteract-core-local.git"
   },
   "keywords": [
     "jupyter",
@@ -20,14 +20,14 @@
     "interactive",
     "widgets"
   ],
-  "author": "Sam Lau",
+  "author": "Sam Lau / Murilo H Moreira",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/SamLau95/nb-interact/issues"
+    "url": "https://github.com/MuriloHMoreira/nb-interact-local/issues"
   },
-  "homepage": "https://github.com/SamLau95/nb-interact#readme",
+  "homepage": "https://github.com/MuriloHMoreira/nb-interact-local#readme",
   "dependencies": {
-    "nbinteract-core": "^0.3.2"
+    "nbinteract-core-local": "^0.3.2"
   },
-  "gitHead": "a29647d4d5726215e193c4f09c4252d258417b22"
+  "gitHead": "233c02c7ad28ba3ffe1da1d943f6a7b812d0c595"
 }
