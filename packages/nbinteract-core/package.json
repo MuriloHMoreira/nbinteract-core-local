@@ -1,6 +1,6 @@
 {
   "name": "nbinteract-core-local",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Library to allow public interactive Jupyter notebooks with local servers",
   "main": "lib/index.bundle.js",
   "module": "src/index.js",

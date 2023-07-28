@@ -1,6 +1,6 @@
 {
   "name": "nbinteract-local",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Script to allow public interactive Jupyter notebooks with local servers",
   "main": "built/index.bundle.js",
   "scripts": {
